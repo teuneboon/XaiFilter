@@ -891,11 +891,12 @@ Show
 # Section: #0011 - Normal and Magic Items
 
 # Redblade potentially
-Hide
+Show
     Rarity = Magic
     Class "Helmets"
     SetTextColor 74 230 58
     SetBorderColor 74 230 58
+    Identified True
 
 Show
     ItemLevel >= 84
