@@ -1457,18 +1457,7 @@ Show
 
 Show
     ItemLevel < 12
-    Rarity = Normal
     LinkedSockets >= 3
-    SetTextColor 255 255 255 225
-    SetBackgroundColor 0 0 0 185
-    SetBorderColor 50 50 50
-    SetFontSize 36
-
-Show
-    ItemLevel < 12
-    Rarity = Magic
-    LinkedSockets >= 3
-    SetTextColor 100 100 255 225
     SetBackgroundColor 0 0 0 185
     SetBorderColor 50 50 50
     SetFontSize 36
@@ -1805,7 +1794,7 @@ Show
 
 Hide
     Rarity <= Magic
-    Class "Two Hand" "Bows" "One Hand" "Wand" "Sceptre" "Staves" "Claws" "Body Armour" "Gloves" "Boots" "Helmets" "Quivers" "Flask" "Daggers" "Shields" "Belts" "Rings" "Amulets"
+    Class "Bows" "Wand" "Sceptre" "Staves" "Claws" "Body Armour" "Gloves" "Boots" "Helmets" "Quivers" "Flask" "Daggers" "Shields" "Belts" "Rings" "Amulets" "Two Hand Axes" "Two Hand Maces" "Two Hand Swords" "One Hand Axes" "One Hand Maces" "One Hand Swords" "Thrusting One Hand Swords"
     SetBackgroundColor 0 0 0 165
     SetBorderColor 0 0 0 150
     SetFontSize 20
