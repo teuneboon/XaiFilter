@@ -363,7 +363,7 @@ Show
     SetFontSize 45
 
 Show
-    BaseType "Orb of Alchemy" "Silver Coin" "Orb of Chance" "Jeweller's Orb"
+    BaseType "Orb of Alchemy" "Silver Coin" "Orb of Chance" "Jeweller's Orb" "Orb of Alteration" "Cartographer's Chisel"
     SetTextColor 163 141 109
     SetBackgroundColor 0 0 0
     SetBorderColor 163 141 109
