@@ -152,7 +152,7 @@ Show
     Rarity = Unique
     SetTextColor 175 96 37
     SetBorderColor 175 96 37
-    SetFontSize 35
+    SetFontSize 40
     PlayAlertSound 3 300
 
 # Section: #0005 - Maps
@@ -366,7 +366,7 @@ Show
     BaseType "Orb of Alchemy" "Silver Coin" "Orb of Chance" "Jeweller's Orb" "Orb of Alteration" "Cartographer's Chisel"
     SetTextColor 163 141 109
     SetBackgroundColor 0 0 0
-    SetBorderColor 163 141 109
+    SetBorderColor 255 255 255
     SetFontSize 45
 
 Show
