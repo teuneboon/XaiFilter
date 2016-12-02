@@ -2188,7 +2188,7 @@ Show
     SetTextColor 0 128 0 255
 
 Show
-    BaseType "Vaal Axe" "Coronal Maul" "Harbinger Bow" "Ambusher" "Imbued Wand" "Prophecy Wand"
+    BaseType "Vaal Axe" "Coronal Maul" "Harbinger Bow" "Ambusher" "Imbued Wand" "Prophecy Wand" "Jewelled Foil"
     ItemLevel >= 83
     Rarity = Rare
     SetBackgroundColor 255 200 0 255
@@ -2197,7 +2197,7 @@ Show
     SetTextColor 0 128 0 255
 
 Show
-    BaseType "Lion Sword" "Vaal Greatsword" "Exquisite Blade" "Fleshripper" "Gemini Claw" "Demon Dagger" "Imperial Skean" "Tiger Hook" "Jewelled Foil" "Runic Hatchet" "Behemoth Mace" "Eternal Sword" "Eclipse Staff" "Maelström Staff" "Judgement Staff" "Dragoon Sword" "Vaal Hatchet"
+    BaseType "Lion Sword" "Vaal Greatsword" "Exquisite Blade" "Fleshripper" "Gemini Claw" "Demon Dagger" "Imperial Skean" "Tiger Hook" "Runic Hatchet" "Behemoth Mace" "Eternal Sword" "Eclipse Staff" "Maelström Staff" "Judgement Staff" "Dragoon Sword" "Vaal Hatchet"
     ItemLevel >= 83
     Rarity = Rare
     SetBackgroundColor 255 200 0 255
@@ -2233,7 +2233,7 @@ Show
     SetTextColor 255 255 119 255
 
 Show
-    BaseType "Lion Sword" "Vaal Greatsword" "Exquisite Blade" "Fleshripper" "Gemini Claw" "Demon Dagger" "Imperial Skean" "Tiger Hook" "Jewelled Foil" "Runic Hatchet" "Behemoth Mace" "Eternal Sword" "Eclipse Staff" "Maelström Staff" "Judgement Staff" "Dragoon Sword" "Vaal Hatchet"
+    BaseType "Lion Sword" "Vaal Greatsword" "Exquisite Blade" "Fleshripper" "Gemini Claw" "Demon Dagger" "Imperial Skean" "Tiger Hook" "Runic Hatchet" "Behemoth Mace" "Eternal Sword" "Eclipse Staff" "Maelström Staff" "Judgement Staff" "Dragoon Sword" "Vaal Hatchet"
     ItemLevel >= 73
     Rarity = Rare
     SetBackgroundColor 30 90 45 255
@@ -2261,7 +2261,7 @@ Show
     SetTextColor 255 190 0 255
 
 Show
-    BaseType "Lion Sword" "Vaal Greatsword" "Exquisite Blade" "Fleshripper" "Gemini Claw" "Demon Dagger" "Imperial Skean" "Tiger Hook" "Jewelled Foil" "Runic Hatchet" "Behemoth Mace" "Eternal Sword" "Eclipse Staff" "Maelström Staff" "Judgement Staff" "Dragoon Sword" "Vaal Hatchet" "Titanium Spirit Shield" "Hubris Circlet" "Sorcerer Boots" "Sorcerer Gloves" "Vaal Regalia" "Saintly Chainmail" "Harmonic Spirit Shield" "Fossilised Spirit Shield" "Titan Gauntlets" "Slink Gloves" "Eternal Burgonet" "Lion Pelt" "Titan Greaves" "Slink Boots" "Platinum Kris" "Void Sceptre" "Opal Sceptre" "Profane Wand" "Opal Wand" "Sambar Sceptre"
+    BaseType "Lion Sword" "Vaal Greatsword" "Exquisite Blade" "Fleshripper" "Gemini Claw" "Demon Dagger" "Imperial Skean" "Tiger Hook" "Runic Hatchet" "Behemoth Mace" "Eternal Sword" "Eclipse Staff" "Maelström Staff" "Judgement Staff" "Dragoon Sword" "Vaal Hatchet" "Titanium Spirit Shield" "Hubris Circlet" "Sorcerer Boots" "Sorcerer Gloves" "Vaal Regalia" "Saintly Chainmail" "Harmonic Spirit Shield" "Fossilised Spirit Shield" "Titan Gauntlets" "Slink Gloves" "Eternal Burgonet" "Lion Pelt" "Titan Greaves" "Slink Boots" "Platinum Kris" "Void Sceptre" "Opal Sceptre" "Profane Wand" "Opal Wand" "Sambar Sceptre"
     Rarity = Rare
     SetBackgroundColor 30 90 45 255
     SetBorderColor 255 255 119 255
@@ -2888,14 +2888,14 @@ Show
     SetFontSize 38
 
 Show
-    BaseType "Vaal Axe" "Coronal Maul" "Harbinger Bow" "Ambusher" "Imbued Wand" "Prophecy Wand"
+    BaseType "Vaal Axe" "Coronal Maul" "Harbinger Bow" "Ambusher" "Imbued Wand" "Prophecy Wand" "Jewelled Foil"
     ItemLevel >= 83
     SetBackgroundColor 0 0 0 255
     SetBorderColor 255 255 0 255
     SetFontSize 40
 
 Show
-    BaseType "Lion Sword" "Vaal Greatsword" "Exquisite Blade" "Fleshripper" "Gemini Claw" "Demon Dagger" "Imperial Skean" "Tiger Hook" "Jewelled Foil" "Runic Hatchet" "Behemoth Mace" "Eternal Sword" "Eclipse Staff" "Maelström Staff" "Judgement Staff" "Dragoon Sword" "Vaal Hatchet"
+    BaseType "Lion Sword" "Vaal Greatsword" "Exquisite Blade" "Fleshripper" "Gemini Claw" "Demon Dagger" "Imperial Skean" "Tiger Hook" "Runic Hatchet" "Behemoth Mace" "Eternal Sword" "Eclipse Staff" "Maelström Staff" "Judgement Staff" "Dragoon Sword" "Vaal Hatchet"
     ItemLevel >= 83
     SetBackgroundColor 0 0 0 180
     SetBorderColor 255 255 0 180
