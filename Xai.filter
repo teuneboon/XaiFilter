@@ -108,7 +108,7 @@ Show
 
 # Uniques that are usually 1ex+
 Show
-    BaseType "Occultist's Vestment" "Jewelled Foil" "Glorious Plate" "Prismatic Jewel" "Citrine Amulet" "Gladiator Plate" "Assassin's Garb" "Golden Mantle" "Sorcerer Boots" "Crusader Boots" "Murder Boots" "Nightmare Bascinet" "Deicide Mask" "Champion Kite Shield" "Vaal Sceptre" "Judgement Staff" "Prophecy Wand" "Grand Mana Flask" "Sapphire Flask" "Silver Flask" "Stibnite Flask" "Topaz Flask" "Siege Axe" "Museum Map" "Lapis Amulet"
+    BaseType "Occultist's Vestment" "Jewelled Foil" "Glorious Plate" "Prismatic Jewel" "Citrine Amulet" "Gladiator Plate" "Assassin's Garb" "Golden Mantle" "Sorcerer Boots" "Crusader Boots" "Murder Boots" "Nightmare Bascinet" "Deicide Mask" "Champion Kite Shield" "Vaal Sceptre" "Judgement Staff" "Prophecy Wand" "Grand Mana Flask" "Sapphire Flask" "Silver Flask" "Stibnite Flask" "Topaz Flask" "Siege Axe" "Museum Map" "Lapis Amulet" "Ezomyte Tower Shield"
     PlayAlertSound 5 300
     Rarity = Unique
     SetBackgroundColor 255 255 255 255
@@ -118,7 +118,7 @@ Show
 
 # Uniques that are usually 2c-1ex
 Show
-    BaseType "Onyx Amulet" "Paua Ring" "Unset Ring" "Gold Ring" "Two-Stone Ring" "Moonstone Ring" "Broadhead Arrow Quiver" "Penetrating Arrow Quiver" "Spike-Point Arrow Quiver" "Desert Brigandine" "Savan" "Vaal Regalia" "Full Wyrmscale" "Varnished Coat" "Sacrificial Garb" "Nubuck Boots" "Sharkskin Boots" "Slink Boots" "Conjurer Boots" "Deerskin Gloves" "Strapped Mitts" "Imperial Bow" "Fiend Dagger" "Slaughter Knife" "Imperial Skean" "Eternal Sword" "Imperial Staff" "Granite Flask" "Bone Bow"
+    BaseType "Onyx Amulet" "Paua Ring" "Unset Ring" "Gold Ring" "Two-Stone Ring" "Moonstone Ring" "Broadhead Arrow Quiver" "Penetrating Arrow Quiver" "Spike-Point Arrow Quiver" "Desert Brigandine" "Savan" "Vaal Regalia" "Full Wyrmscale" "Varnished Coat" "Sacrificial Garb" "Nubuck Boots" "Sharkskin Boots" "Slink Boots" "Conjurer Boots" "Deerskin Gloves" "Strapped Mitts" "Imperial Bow" "Fiend Dagger" "Slaughter Knife" "Imperial Skean" "Eternal Sword" "Imperial Staff" "Granite Flask" "Bone Bow" "Jingling Spirit Shield"
     PlayAlertSound 6 300
     Rarity = Unique
     SetBackgroundColor 175 96 37 255
