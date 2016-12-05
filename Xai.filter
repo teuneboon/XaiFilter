@@ -108,7 +108,7 @@ Show
 
 # Uniques that are usually 1ex+
 Show
-    BaseType "Occultist's Vestment" "Jewelled Foil" "Glorious Plate" "Prismatic Jewel" "Citrine Amulet" "Gladiator Plate" "Assassin's Garb" "Golden Mantle" "Sorcerer Boots" "Crusader Boots" "Murder Boots" "Nightmare Bascinet" "Deicide Mask" "Champion Kite Shield" "Vaal Sceptre" "Judgement Staff" "Prophecy Wand" "Grand Mana Flask" "Sapphire Flask" "Silver Flask" "Stibnite Flask" "Topaz Flask" "Siege Axe" "Museum Map" "Lapis Amulet" "Ezomyte Tower Shield"
+    BaseType "Occultist's Vestment" "Jewelled Foil" "Glorious Plate" "Prismatic Jewel" "Citrine Amulet" "Gladiator Plate" "Assassin's Garb" "Golden Mantle" "Sorcerer Boots" "Crusader Boots" "Murder Boots" "Nightmare Bascinet" "Deicide Mask" "Champion Kite Shield" "Vaal Sceptre" "Judgement Staff" "Prophecy Wand" "Grand Mana Flask" "Sapphire Flask" "Silver Flask" "Stibnite Flask" "Topaz Flask" "Siege Axe" "Museum Map" "Titanium Spirit Shield" "Lapis Amulet" "Ezomyte Tower Shield"
     PlayAlertSound 5 300
     Rarity = Unique
     SetBackgroundColor 255 255 255 255
@@ -2008,6 +2008,10 @@ Show
     SetBorderColor 255 255 255 255
     SetFontSize 45
     SetTextColor 163 141 109 255
+
+Show
+    BaseType "Portal" "Wisdom"
+    Class "Currency"
 
 Show
     Class "Currency" "Stackable Currency"
