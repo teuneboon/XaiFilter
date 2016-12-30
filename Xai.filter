@@ -108,7 +108,7 @@ Show
 
 # Uniques that are usually 1ex+
 Show
-    BaseType "Occultist's Vestment" "Jewelled Foil" "Glorious Plate" "Prismatic Jewel" "Citrine Amulet" "Gladiator Plate" "Assassin's Garb" "Golden Mantle" "Sorcerer Boots" "Crusader Boots" "Murder Boots" "Nightmare Bascinet" "Deicide Mask" "Champion Kite Shield" "Vaal Sceptre" "Judgement Staff" "Prophecy Wand" "Grand Mana Flask" "Sapphire Flask" "Silver Flask" "Stibnite Flask" "Topaz Flask" "Siege Axe" "Museum Map" "Titanium Spirit Shield" "Ezomyte Tower Shield"
+    BaseType "Occultist's Vestment" "Jewelled Foil" "Glorious Plate" "Prismatic Jewel" "Citrine Amulet" "Gladiator Plate" "Assassin's Garb" "Golden Mantle" "Sorcerer Boots" "Crusader Boots" "Murder Boots" "Nightmare Bascinet" "Deicide Mask" "Champion Kite Shield" "Vaal Sceptre" "Judgement Staff" "Prophecy Wand" "Grand Mana Flask" "Sapphire Flask" "Silver Flask" "Stibnite Flask" "Topaz Flask" "Siege Axe" "Museum Map" "Titanium Spirit Shield" "Ezomyte Tower Shield" "Amber Amulet" "Goathide Boots" "Cutlass" "Stibnite Flask" "Void Axe" "Ebony Tower Shield"
     PlayAlertSound 5 300
     Rarity = Unique
     SetBackgroundColor 255 255 255 255
@@ -118,7 +118,7 @@ Show
 
 # Uniques that are usually 2c-1ex
 Show
-    BaseType "Onyx Amulet" "Paua Ring" "Unset Ring" "Gold Ring" "Two-Stone Ring" "Moonstone Ring" "Broadhead Arrow Quiver" "Penetrating Arrow Quiver" "Spike-Point Arrow Quiver" "Desert Brigandine" "Savan" "Vaal Regalia" "Full Wyrmscale" "Varnished Coat" "Sacrificial Garb" "Nubuck Boots" "Sharkskin Boots" "Slink Boots" "Conjurer Boots" "Deerskin Gloves" "Strapped Mitts" "Imperial Bow" "Fiend Dagger" "Slaughter Knife" "Imperial Skean" "Eternal Sword" "Imperial Staff" "Granite Flask" "Lapis Amulet" "Jingling Spirit Shield"
+    BaseType "Onyx Amulet" "Paua Ring" "Unset Ring" "Gold Ring" "Two-Stone Ring" "Moonstone Ring" "Broadhead Arrow Quiver" "Penetrating Arrow Quiver" "Desert Brigandine" "Savan" "Vaal Regalia" "Full Wyrmscale" "Varnished Coat" "Sacrificial Garb" "Nubuck Boots" "Sharkskin Boots" "Slink Boots" "Conjurer Boots" "Deerskin Gloves" "Strapped Mitts" "Imperial Bow" "Fiend Dagger" "Slaughter Knife" "Imperial Skean" "Eternal Sword" "Imperial Staff" "Granite Flask" "Jingling Spirit Shield" "Sage Wand" "Abyssal Axe"
     PlayAlertSound 6 300
     Rarity = Unique
     SetBackgroundColor 175 96 37 255
@@ -148,7 +148,7 @@ Show
 Show
     BaseType "Arcade Map"
     Class "Maps"
-    DropLevel = 68
+    DropLevel <= 68
     SetBackgroundColor 0 30 255 255
     SetBorderColor 33 255 0 255
     SetFontSize 33
@@ -157,7 +157,7 @@ Show
 Show
     BaseType "Crystal Ore Map"
     Class "Maps"
-    DropLevel = 68
+    DropLevel <= 68
     SetBackgroundColor 0 30 255 255
     SetBorderColor 33 255 0 255
     SetFontSize 33
@@ -166,7 +166,7 @@ Show
 Show
     BaseType "Desert Map"
     Class "Maps"
-    DropLevel = 68
+    DropLevel <= 68
     SetBackgroundColor 0 30 255 255
     SetBorderColor 33 255 0 255
     SetFontSize 33
@@ -175,7 +175,7 @@ Show
 Show
     BaseType "Jungle Valley Map"
     Class "Maps"
-    DropLevel = 68
+    DropLevel <= 68
     SetBackgroundColor 0 30 255 255
     SetBorderColor 33 255 0 255
     SetFontSize 33
@@ -2031,7 +2031,7 @@ Show
     SetTextColor 0 0 0 255
 
 Show
-    BaseType "Abandoned Wealth" "The Doctor" "The Fiend" "Mawr Blaidd" "The Offering" "The Brittle Emperor" "The Harvester" "The Last One Standing" "The Dragon's Heart" "The Ethereal" "The Queen" "The Enlightened" "The Hunger" "Pride Before the Fall" "The King's Heart" "The Vast" "Wealth and Power" "The Immortal" "The Devastator" "Hunter's Reward"
+    BaseType "Abandoned Wealth" "The Doctor" "The Fiend" "Mawr Blaidd" "The Offering" "The Brittle Emperor" "The Harvester" "The Last One Standing" "The Dragon's Heart" "The Ethereal" "The Queen" "The Enlightened" "The Hunger" "Pride Before the Fall" "The King's Heart" "The Vast" "Wealth and Power" "The Immortal" "The Devastator" "Hunter's Reward" "The Spark and the Flame"
     PlayAlertSound 5 300
     SetBackgroundColor 208 32 144 255
     SetBorderColor 255 255 255 255
@@ -2039,7 +2039,7 @@ Show
     SetTextColor 255 255 255 255
 
 Show
-    BaseType "Bowyer's Dream" "The Formless Sea" "The Penitent" "Heterochromia" "Lucky Deck" "The Stormcaller" "The Wolf" "The Artist" "Earth Drinker" "The Trial" "The Celestial Justicar" "The Surveyor" "The Valkyrie" "Chaotic Disposition" "The Sephirot" "The Void" "The Dark Mage" "The Dapper Prodigy" "Time-Lost Relic" "The Chains that Bind" "Dialla's Subjugation" "Emperor of Purity" "The Soul"
+    BaseType "Bowyer's Dream" "The Formless Sea" "The Penitent" "Heterochromia" "Lucky Deck" "The Stormcaller" "The Wolf" "The Artist" "Earth Drinker" "The Trial" "The Celestial Justicar" "The Surveyor" "The Valkyrie" "Chaotic Disposition" "The Sephirot" "The Void" "The Dark Mage" "The Dapper Prodigy" "Time-Lost Relic" "The Chains that Bind" "Dialla's Subjugation" "Emperor of Purity" "The Soul" "The Polymath" "The Porcupine" "The Saint's Treasure" "The Wolven King's Bite"
     PlayAlertSound 6 300
     SetBackgroundColor 30 144 255 255
     SetBorderColor 255 255 255 255
@@ -2951,7 +2951,7 @@ Show
     SocketGroup "RGB"
 
 Show
-    BaseType "Sorcerer Boots" "Jewelled Foil" "Occultist's Vestment" "Deicide Mask" "Sapphire Flask"
+    BaseType "Sorcerer Boots" "Occultist's Vestment" "Sapphire Flask" "Ebony Tower Shield"
     Rarity = Normal
     SetBorderColor 74 230 58 255
 
