@@ -387,9 +387,9 @@ Show
     DropLevel = 72
     PlayAlertSound 2 300
     SetBackgroundColor 0 30 255 255
-    SetBorderColor 238 255 0 255
-    SetFontSize 39
-    SetTextColor 238 255 0 255
+    SetBorderColor 204 255 0 255
+    SetFontSize 38
+    SetTextColor 204 255 0 255
 
 Show
     BaseType "Peninsula Map"
@@ -1087,9 +1087,9 @@ Show
     DropLevel = 77
     PlayAlertSound 2 300
     SetBackgroundColor 0 30 255 255
-    SetBorderColor 255 101 0 255
-    SetFontSize 44
-    SetTextColor 255 101 0 255
+    SetBorderColor 255 136 0 255
+    SetFontSize 43
+    SetTextColor 255 136 0 255
 
 Show
     BaseType "Shaped Peninsula Map"
@@ -1961,10 +1961,10 @@ Show
     SetFontSize 38
     SetTextColor 210 0 0 255
 
-# Section: #0006 - Currency + Essences
+# Section: #0006 - Currency + Essences + Leaguestones
 
 Show
-    BaseType "Exalted Orb" "Eternal Orb" "Albino Rhoa Feather"
+    BaseType "Exalted Orb" "Eternal Orb" "Albino Rhoa Feather" "Ancient Reliquary Key"
     PlayAlertSound 8 300
     SetBackgroundColor 255 255 255 255
     SetBorderColor 208 32 144 255
@@ -1978,6 +1978,14 @@ Show
     SetBorderColor 255 255 255 255
     SetFontSize 45
     SetTextColor 255 255 255 255
+
+Show
+    Class "Leaguestone"
+    PlayAlertSound 2 300
+    SetBackgroundColor 210 0 0 255
+    SetBorderColor 0 0 0 255
+    SetFontSize 45
+    SetTextColor 0 0 0 255
 
 Show
     BaseType "Cartographer's Sextant" "Chaos Orb" "Cartographer's Seal" "Orb of Fusing" "Orb of Regret" "Regal Orb" "Blessed Orb" "Gemcutter's Prism" "Orb of Scouring" "Vaal Orb" "Remnant of Corruption" "Essence of"
@@ -2010,7 +2018,11 @@ Show
     SetTextColor 163 141 109 255
 
 Show
-    BaseType "Portal" "Wisdom"
+    BaseType "Wisdom"
+    Class "Currency"
+
+Show
+    BaseType "Portal"
     Class "Currency"
 
 Show
@@ -3503,6 +3515,11 @@ Show
 Hide
     Class "Bows" "Wand" "Sceptre" "Staves" "Claws" "Body Armour" "Gloves" "Boots" "Helmets" "Quivers" "Flask" "Daggers" "Shields" "Belts" "Rings" "Amulets" "Two Hand Axes" "Two Hand Maces" "Two Hand Swords" "One Hand Axes" "One Hand Maces" "One Hand Swords" "Thrusting One Hand Swords"
     Rarity <= Magic
+    SetBackgroundColor 0 0 0 165
+    SetFontSize 20
+
+Hide
+    Class "Skill Gems"
     SetBackgroundColor 0 0 0 165
     SetFontSize 20
 
