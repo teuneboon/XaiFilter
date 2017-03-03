@@ -2167,6 +2167,15 @@ Show
     SetTextColor 255 255 0 255
 
 Show
+    BaseType "Talisman"
+    PlayAlertSound 5 300
+    Rarity < Unique
+    SetBackgroundColor 74 230 58 255
+    SetBorderColor 255 255 119 255
+    SetFontSize 45
+    SetTextColor 255 255 119 255
+
+Show
     BaseType "Steel Ring" "Crystal Belt" "Opal Ring" "Blue Pearl Amulet" "Marble Amulet" "Vanguard Belt" "Bone Helmet" "Two-Toned Boots" "Spiked Gloves" "Gripped Gloves" "Fingerless Silk Gloves"
     ItemLevel >= 84
     PlayAlertSound 5 300
